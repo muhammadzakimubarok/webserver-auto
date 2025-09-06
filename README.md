@@ -20,5 +20,5 @@ Proyek ini berisi script Python yang dapat menginstal web server Apache dan PHP 
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/zaki-smkn4/webserver-auto.git
+   git clone https://github.com/muhammadzakimubarok/webserver-auto.git
    cd webserver-auto
